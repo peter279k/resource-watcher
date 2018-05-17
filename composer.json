@@ -23,6 +23,11 @@
             "Yosymfony\\ResourceWatcher\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Yosymfonys\\ResourceWatcher\\Tests\\": "tests/"
+        }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "2.0-dev"
